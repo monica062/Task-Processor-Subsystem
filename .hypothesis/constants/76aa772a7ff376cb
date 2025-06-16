@@ -1,0 +1,4 @@
+# file: D:\PERKULIAHAN MONICA\BELAJAR\week 4\task_processor\app\processor.py
+# hypothesis_version: 6.135.10
+
+[200, 300, 'Task tidak ditemukan', 'failure', 'fetch', 'success']
